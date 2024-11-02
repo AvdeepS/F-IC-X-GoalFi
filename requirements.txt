@@ -1,2 +1,7 @@
 ipykernel
 python-dotenv
+numpy
+pandas
+yfinance
+logging
+concurrent.futures
